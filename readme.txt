@@ -19,3 +19,4 @@ git push -u origin master
 
 every time : git push origin master
 
+did i write readme.txt~ >w< silly me
